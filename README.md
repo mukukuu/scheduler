@@ -1,5 +1,7 @@
 # scheduler
 
+This scheduler only support hours from 9am - 5pm
+
 User Guide:
 
 - check your current date and time under "Your Life".
@@ -9,3 +11,5 @@ User Guide:
 - row in the past displays grey.
 - row in the future display yellow-green.
 - User inputs will be store in localstorage.
+
+<img src="./assets/img/Screen Shot 2021-12-17 at 2.37.31 PM.png"
