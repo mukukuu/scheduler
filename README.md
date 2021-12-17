@@ -12,4 +12,4 @@ User Guide:
 - row in the future display yellow-green.
 - User inputs will be store in localstorage.
 
-<img src="./assets/img/Screen Shot 2021-12-17 at 2.37.31 PM.png"
+![](assets/img/ScreenShot.png)
